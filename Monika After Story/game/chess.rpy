@@ -18,6 +18,7 @@ default persistent._mas_chess_3_edit_sorry = False
 default persistent._mas_chess_mangle_all = False
 
 # skip file checks
+# test
 default persistent._mas_chess_skip_file_checks = False
 
 define mas_chess.CHESS_SAVE_PATH = "/chess_games/"
